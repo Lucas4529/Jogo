@@ -1,0 +1,38 @@
+button{
+    margin: 100px;
+    height: 100px;
+    width: 100px;
+}
+
+
+#soma:hover{
+    background-color: rgb(255,0,0);
+    transition: 0.8s;
+    border-radius: 20px;
+
+
+    box-shadow: 0px 5px 20px rgb(255,0,0,0.7);
+}
+#sub:hover{
+    background-color: blue;
+    transition: 0.8s;
+    border-radius: 20px;
+
+
+    box-shadow: 0px 5px 20px blue;
+} #multi:hover{
+    background-color: yellow;
+    transition: 0.8s;
+    border-radius: 20px;
+
+
+    box-shadow: 0px 5px 20px yellow;
+} #div:hover{
+    background-color: greenyellow;
+    transition: 0.8s;
+    border-radius: 20px;
+
+
+    box-shadow: 0px 5px 20px greenyellow;
+}
+
